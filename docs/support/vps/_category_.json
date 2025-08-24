@@ -1,0 +1,8 @@
+{
+  "label": "VPS",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Installation and configuration of different programs on a server."
+  }
+}
