@@ -4,7 +4,7 @@ slug: equipment-setup
 ---
 # Equipment Setup
 
-To know what equipment you need, check out the [Equipment Checklist](../equipment-checklist/).
+To know what equipment you need, check out the [Equipment Checklist](./equipment-checklist/).
 ## EtherLynx Pro
 Attach the EtherLynx Pro camera to the Remote Tilt plate and screw it on. The ports on the plate should be on the left side when facing the camera from the front. Attach the Remote Tilt plate to the Ether Pro tripod plate, then snap in the plate to the actual tripod legs. Extend the legs all the way out. Adjust the tripod as needed to be perpendicular to the finish line and far enough away to see all of the runners.
 
@@ -33,7 +33,7 @@ You can see the battery percentage remaining on the EncRadio by pressing the "ON
 :::
 Find the two wireless start devices, the DecRadio and EncRadio (both labeled as such). Screw on the gray antennae to both devices into the coax port on the top.  On the DecRadio, plug in the black cord to the RadioLynx port on the back of the Ether Pro camera. Attach it to the tripod with the zip tie on the back and the little metal carabiner. It's perfectly fine for the antenna to be pointed down.
 
-On the EncRadio, plug in the banana plugs into the matching color ports on the bottom of the sensor. Attach the red start sensor to the end of this. To turn it on, hold the ON/OFF button on the bottom right. Find out how to test it in [RadioLynx](../software-setup/#radiolynx).
+On the EncRadio, plug in the banana plugs into the matching color ports on the bottom of the sensor. Attach the red start sensor to the end of this. To turn it on, hold the ON/OFF button on the bottom right. Find out how to test it in [RadioLynx](./software-setup/#radiolynx).
 
 Find the weird foam-wrapped nunchuck device with a red button on the top labeled as Remote Capture. You don’t need to plug the USB end into the laptop running FinishLynx, but when you run FinishLynx, it will give you an error saying "Capture Button not plugged in" or something like that. Since we use automatic capture, this isn’t a big deal.
 ## Ethernet hub

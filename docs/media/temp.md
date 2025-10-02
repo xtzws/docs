@@ -10,7 +10,7 @@ Plans:
 - Plus: 250GB web hosting, five free domains<sup>1</sup>, web analytics, DDoS protection, email
 - Pro: 1TB web hosting, ten free domains<sup>1</sup>, web analytics, DDoS protection, email, advanced security
 
-*Learn more about free domains in [domain credits](../plans/credits/)*
+*Learn more about free domains in [domain credits](./plans/credits/)*
 
 All services:
 - Sysadmin (Isaac on the Server and Isaac in the Cloud)
