@@ -23,6 +23,6 @@ Go to File > Options... > Event, then for Event Directory select the same folder
 
 In the top left, select Load Event from the Schedule. Click Load Schedule, then in the dropdown select the first race. The race is now armed and ready to receive captures.
 ### RadioLynx
-To make sure that RadioLynx and the Wireless Start System works, you need to test it. Ensure that you have followed all the steps in the [Equipment Setup](equipment-setup). Take the larger start sensor and bap the top of the red thing. In FinishLynx, you should hear a little bell and see a yellow box appear with the running time of the race. After confirming everything works correctly, you can pass the tripod and the start sensor off to the official who will be starting the race.
+To make sure that RadioLynx and the Wireless Start System works, you need to test it. Ensure that you have followed all the steps in the [Equipment Setup](../equipment-setup/). Take the larger start sensor and bap the top of the red thing. In FinishLynx, you should hear a little bell and see a yellow box appear with the running time of the race. After confirming everything works correctly, you can pass the tripod and the start sensor off to the official who will be starting the race.
 
 The sensor works from any reasonable distance (up to 2km away), and even if it doesn't transmit right away, you can have it rebroadcast the signal once you are closer with a timestamp so you can start capturing on FinishLynx after the race actually starts. The sensor gives off a faint beep once it has been activated.
